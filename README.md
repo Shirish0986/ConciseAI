@@ -4,6 +4,8 @@ ConciseAI is a simple and efficient Chrome extension that summarizes lengthy web
 
 Whether you're reading news articles, blog posts, or research papers, ConciseAI helps you grasp the key ideas in one click – no distractions, no fluff.
 
+https://github.com/user-attachments/assets/90e0c548-7c3a-4b27-ba47-74d7dba0ebe0
+
 ---
 
 ## 🚀 Features
