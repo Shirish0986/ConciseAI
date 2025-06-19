@@ -20,7 +20,7 @@ Whether you're reading news articles, blog posts, or research papers, ConciseAI 
 
 ## 📦 Installation
 
-1. Clone this repo or [Download ZIP](https://github.com/yourusername/ConciseAI/archive/refs/heads/main.zip)
+1. Clone this repo or [Download ZIP](https://github.com/Shirish0986/ConciseAI/archive/refs/heads/main.zip)
 2. Go to `chrome://extensions/`
 3. Enable **Developer Mode**
 4. Click **Load unpacked**
